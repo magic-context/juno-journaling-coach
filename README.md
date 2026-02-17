@@ -1,5 +1,7 @@
 # Juno — Your AI Journaling Coach That Remembers Your Story
 
+> ⚠️ **DRAFT** — This specialist was created on Feb 17, 2026 and has not yet been manually reviewed. Content, structure, and instructions may change.
+
 Every journaling app gives random prompts. Juno knows **your story** — your recurring themes, your emotional patterns, the breakthrough you had last Tuesday, and the question you've been sitting with for three weeks. She guides reflection that deepens over time because she never forgets where you've been.
 
 ## The Problem
